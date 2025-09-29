@@ -37,29 +37,29 @@ Eng, David L., and Alice Y. Hom, eds. *Q & A: Queer in Asian America*. Philadelp
 
 ## {{< anchor "Films" >}}{{< /anchor >}}Films
 
-{{% resource_link "8eb92a8a-1d47-4827-98cc-74be33fa8218" "*Broken Blossoms*" %}}. Directed by D. W. Griffith, 1919.
+[*Broken Blossoms*](http://www.kino.com/video/item.php?film_id=35). Directed by D. W. Griffith, 1919.
 
-{{% resource_link "0c11a8c1-545a-4c56-b034-0f181e83e8d2" "*The Cheat*" %}}. Directed by Maurice Tourneur, 1915.
+[*The Cheat*](http://www.kino.com/video/item.php?film_id=63). Directed by Maurice Tourneur, 1915.
 
-{{% resource_link "15140e7e-304c-4f01-b5fb-4f9a74abe6d7" "*The Mask of Fu Manchu*" %}}. Directed by Charles Brabin, 1932.
+[*The Mask of Fu Manchu*](http://www.imdb.com/title/tt0023194/). Directed by Charles Brabin, 1932.
 
-{{% resource_link "ecf6bcc5-59c1-41cb-a838-7067d4d09878" "*Shadows*" %}}. Directed by Tom Forman, 1922.
+[*Shadows*](https://letterboxd.com/film/shadows/). Directed by Tom Forman, 1922.
 
-{{% resource_link "5eb427ef-30c8-4a73-ab6b-37b8808c6a8d" "*The World of Suzie Wong*" %}} *.* Directed by Richard Quine, 1960.
+[*The World of Suzie Wong*](http://www.imdb.com/title/tt0054483/) *.* Directed by Richard Quine, 1960.
 
-{{% resource_link "e2c4e7de-0bc6-4f9f-adfa-3fd49d9cdfa3" "*Mississippi Masala*" %}}. Directed by Mira Nair, 1991.
+[*Mississippi Masala*](http://www.imdb.com/title/tt0102456/). Directed by Mira Nair, 1991.
 
-{{% resource_link "c87fd5c2-4d9b-4a2e-891f-bd500b8a9be8" "*M. Butterfly*" %}}. Directed by David Cronenberg, 1993.
+[*M. Butterfly*](http://www.imdb.com/title/tt0107468/). Directed by David Cronenberg, 1993.
 
-{{% resource_link "30ab7188-6168-4763-b046-6323b8f5f7bc" "*Wedding Banquet*" %}}. Directed by Ang Lee, 1993.
+[*Wedding Banquet*](http://www.imdb.com/title/tt0107156/). Directed by Ang Lee, 1993.
 
-{{% resource_link "e498a01f-d202-43e7-b50f-9b817c0b4b49" "*Miss India, Georgia*" %}}. Directed by Daniel Friedman and Sharon Grimberg, 1997.
+[*Miss India, Georgia*](http://www.imdb.com/title/tt0124007/). Directed by Daniel Friedman and Sharon Grimberg, 1997.
 
 *Chasing Daybreak*. Directed by Justin Leroy, 2005.
 
 *Sa-I-Gu: From Korean Women's Perspectives*. Directed by Christine Choy, Elaine Kim, and Dai Sil Kim-Gibson, 1993.
 
-Kureishi, Hanif. {{% resource_link "b902b7d0-f184-45d1-a5e6-b4d3e5d62f77" "*My Son the Fanatic*" %}}. Directed by Udayan Prasad, 1997.
+Kureishi, Hanif. [*My Son the Fanatic*](http://www.imdb.com/title/tt0119743/). Directed by Udayan Prasad, 1997.
 
 ## {{< anchor "Readings" >}}{{< /anchor >}}Readings by Session
 
@@ -78,7 +78,7 @@ Introduction
 Film: *Slaying the Dragon*
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "6c8cf9be-ff36-4758-922c-acf8f95604ca" "*Slaying the Dragon*" %}}. Directed by Deborah Gee. New York, NY: Women Make Movies, 1988.
+[*Slaying the Dragon*](http://web.archive.org/web/20081012033551/http://www.wmm.com/filmCatalog/pages/c114.shtml). Directed by Deborah Gee. New York, NY: Women Make Movies, 1988.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **I: Images and Counter-Images**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -214,7 +214,7 @@ Lieu, Nhi T. "Remembering 'the Nation' Through Pageantry: Femininity and the Pol
 
 *Recommended*
 
-Film: {{% resource_link "e498a01f-d202-43e7-b50f-9b817c0b4b49" "*Miss India, Georgia*" %}}
+Film: [*Miss India, Georgia*](http://www.imdb.com/title/tt0124007/)
 
 Special Event: Radhika Gajjala lecture on Digital Diasporas. (Required attendance)
 

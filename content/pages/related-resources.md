@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides links to digital libraries and other useful web
   sites.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -15,18 +13,18 @@ The information in this section was mostly compiled by the humanities librarians
 Digital Libraries
 -----------------
 
-[Making of America](https://quod.lib.umich.edu/m/moagrp/) (University of Michigan and Cornell University)  
+{{% resource_link "2e42184c-9781-4d67-8fc3-a643b0554976" "Making of America" %}} (University of Michigan and Cornell University)  
 A digital library of primary sources in American history from the antebellum period through reconstruction.
 
-[American Memory: Historical Collections for the National Digital Library](http://memory.loc.gov/ammem/) (Library of Congress)
+{{% resource_link "6fa3a523-162d-4e10-bd30-dbee32033e56" "American Memory: Historical Collections for the National Digital Library" %}} (Library of Congress)
 
 Other Useful Web Sites
 ----------------------
 
-[American Community Survey](https://www.census.gov/programs-surveys/acs/)  (U.S. Census Bureau)
+{{% resource_link "19a68451-2a35-4b27-930a-35418da4de7f" "American Community Survey" %}}  (U.S. Census Bureau)
 
-[Association for Asian American Studies](http://www.aaastudies.org/)
+{{% resource_link "dce089ef-df0d-4ae7-ad93-c03294be467b" "Association for Asian American Studies" %}}
 
-[The Institute for Asian American Studies](http://www.iaas.umb.edu/) (University of Massachusetts Boston)
+{{% resource_link "f5a144b6-c6d6-4b1c-a508-d96632d3348f" "The Institute for Asian American Studies" %}} (University of Massachusetts Boston)
 
-[Asian American Studies Center](http://www.aasc.ucla.edu/default.asp) (University of California, Los Angeles)
+{{% resource_link "42339a84-2e33-4044-b39d-db47b920a26d" "Asian American Studies Center" %}} (University of California, Los Angeles)

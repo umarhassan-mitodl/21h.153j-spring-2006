@@ -2,8 +2,6 @@
 content_type: page
 description: This scetion provides information on journals and databases used as study
   materials for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -14,7 +12,7 @@ This course makes use of Athena, MIT's UNIX-based computing environment. OCW doe
 
 The information in this section was compiled by the humanities librarians of MIT Libraries.
 
-Please see a reference librarian. You may also consult the MIT libraries [Information Navigator: A self-help guide to quailty information](http://libraries.mit.edu/multi/research-guides.html).
+Please see a reference librarian. You may also consult the MIT libraries {{% resource_link "16c90b29-6f24-4470-8f75-7b1a57ddd943" "Information Navigator: A self-help guide to quailty information" %}}.
 
 Journals
 --------
